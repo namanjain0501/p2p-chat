@@ -1,1 +1,6 @@
-# p2p-chat-
+# p2p-chat
+
+## Steps to Run ->
+
+``` Make
+``` ./p2p
