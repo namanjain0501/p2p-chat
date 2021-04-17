@@ -6,3 +6,9 @@
 Make
 ./p2p 
 ```
+
+## To send msg ->
+
+``` 
+<friend-name>/<msg>
+```
