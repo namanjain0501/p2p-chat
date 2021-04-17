@@ -2,5 +2,7 @@
 
 ## Steps to Run ->
 
-``` Make
-``` ./p2p
+``` 
+Make
+./p2p 
+```
